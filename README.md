@@ -57,3 +57,26 @@ Open appliaction.properties file
 <li>Step 2: Edit Your DB username and Password DEtails</li>
 <li>Step 3: Add Host/Employees Details in Database</li>
 </ul>
+
+<h3> Screenshots</h3>
+<h4>File Structure</h4>
+<img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/file_structure.JPG" alt="file Structure">
+<h4>Home Page</h4>
+<img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(2)_HomePage.png" alt="Home Page">
+<h4>Check In</h4>
+<img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(3)CheckIn.png" alt="Check In">
+<h4>Added in Vistors Database</h4>
+<img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(4)Vistors_database.png" alt="Visitors database">
+<h4>Host Database</h4>
+<img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(5)Host_database.png" alt="Host Database">
+<h4>Check In Mail Recieved by Host</h4>
+<img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(6)Checkin_mail_alert.png" alt="Check In mail">
+<h4>Check out</h4>
+<img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(7)CheckOut.png" alt="Check out">
+<h4>Check Out Mail Recieved by Visitor</h4>
+<img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(8)CheckOut_Mail_Alert.png" alt="Check Out mail">
+<table>
+  <td>Name : Hari Vilas Panjwani </td>
+  <td>Contact: 6377192795</td>
+  <td>Email : harivilasp@gmail.com</td>
+</table>

@@ -1,6 +1,6 @@
 # Entry-Mangement-Software
-Made with Spring Boot makes life easy for visitors and employees of company
-
+Made with Spring Boot makes life easy for visitors and employees of company<br>
+<a href="https://entry-mangement-boot.herokuapp.com/">Go to Site</a><br>
 This application will give your reception area the smart and modern look your business deserves. Truly an innovative way to showcase your brand and wow guests with a modern first impression.
 System look after all the set up while employees keep working
 The end result is a visitor management system that's perfectly in tune with your business environment. There’s no need to pull a staff member from their daily role.

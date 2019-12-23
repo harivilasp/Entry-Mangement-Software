@@ -75,8 +75,4 @@ Open appliaction.properties file
 <img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(7)CheckOut.png" alt="Check out">
 <h4>Check Out Mail Recieved by Visitor</h4>
 <img src="https://github.com/harivilasp/Entry-Mangement-Software/blob/master/screenshots/(8)CheckOut_Mail_Alert.png" alt="Check Out mail">
-<table>
-  <td>Name : Hari Vilas Panjwani </td>
-  <td>Contact: 6377192795</td>
-  <td>Email : harivilasp@gmail.com</td>
-</table>
+
